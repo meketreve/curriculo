@@ -63,5 +63,5 @@ Se você procura alguém que aprende rápido, resolve problemas com criatividade
 
 ### 📫 Contato
 [![Email](https://img.shields.io/badge/Email-leocomprof@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leocomprof@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Silvano-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin) *(adicione seu link)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Silvano-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-s-j-techo/)  
 📍 Sombrio, Santa Catarina
