@@ -55,7 +55,7 @@ Auxiliar de Escritório (Contabilidade/RH), Auxiliar de Fábrica, Setor Industri
 
 ### 📺 Projetos & Conteúdo
 - Canal no YouTube com tutoriais técnicos e gameplays (roteiro, narração e edição)  
-  → [youtube.com/@seucanal](https://www.youtube.com/@seucanal) *(substitua pelo seu link real)*
+  → [youtube.com/@seucanal](https://www.youtube.com/@meketrevee) *(substitua pelo seu link real)*
 - Experiência com rádio web, podcasts e edição de áudio/vídeo (OBS + mesa de som)
 
 ### 🤝 Estou aberto a oportunidades!
